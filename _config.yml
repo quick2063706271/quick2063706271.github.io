@@ -12,7 +12,7 @@ title                    : "Kuai Yu"
 title_separator          : "-"
 name                     : &name "Kuai Yu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://quick2063706271.github.io"
+url                      : "https://quick2063706271.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://quick2063706271.github.io"
 
